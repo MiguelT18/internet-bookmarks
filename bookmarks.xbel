@@ -1,6 +1,6 @@
 <!DOCTYPE NETSCAPE-Bookmark-file-1>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Bookmarks</TITLE><!--- highestId :12: for Floccus bookmark sync browser extension -->
+<TITLE>Bookmarks</TITLE><!--- highestId :13: for Floccus bookmark sync browser extension -->
 <DL><p>
 <DT><H3 ID="1">ai_tools</H3>
 <DL><p>
@@ -18,6 +18,7 @@
   <DT><H3 ID="8">ui_components</H3>
   <DL><p>
     <DT><A HREF="https://flowbite.com/#components" TAGS="" ID="12">Flowbite - Build websites even faster with components on top of Tailwind CSS</A>
+    <DT><A HREF="https://ui.shadcn.com/" TAGS="" ID="13">The Foundation for your Design System - shadcn/ui</A>
   </DL><p>
 </DL><p>
 <DT><H3 ID="4">references</H3>
