@@ -1,6 +1,6 @@
 <!DOCTYPE NETSCAPE-Bookmark-file-1>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Bookmarks</TITLE><!--- highestId :17: for Floccus bookmark sync browser extension -->
+<TITLE>Bookmarks</TITLE><!--- highestId :18: for Floccus bookmark sync browser extension -->
 <DL><p>
 <DT><H3 ID="1">ai_tools</H3>
 <DL><p>
@@ -36,6 +36,7 @@
 </DL><p>
 <DT><H3 ID="17">repos</H3>
 <DL><p>
+  <DT><A HREF="https://github.com/toon-format/toon" TAGS="" ID="18">toon-format/toon: 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.</A>
 </DL><p>
 </DL><p>
 </html>
