@@ -1,6 +1,6 @@
 <!DOCTYPE NETSCAPE-Bookmark-file-1>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Bookmarks</TITLE><!--- highestId :30: for Floccus bookmark sync browser extension -->
+<TITLE>Bookmarks</TITLE><!--- highestId :32: for Floccus bookmark sync browser extension -->
 <DL><p>
 <DT><H3 ID="2">entertainment</H3>
 <DL><p>
@@ -21,6 +21,10 @@
     <DT><A HREF="https://icon-sets.iconify.design/" TAGS="" ID="20">Iconify - home of open source icons</A>
     <DT><A HREF="https://yesicon.app/?lang=es" TAGS="" ID="22">Yesicon - Iconos Vectoriales Gratuitos, de Código Abierto y de Alta Calidad Seleccionados</A>
     <DT><A HREF="https://phosphoricons.com/" TAGS="" ID="30">Phosphor Icons</A>
+  </DL><p>
+  <DT><H3 ID="31">fonts</H3>
+  <DL><p>
+    <DT><A HREF="https://fontsource.org/" TAGS="" ID="32">Fontsource</A>
   </DL><p>
   <DT><A HREF="https://unlighthouse.dev/" TAGS="" ID="23">Unlighthouse</A>
 </DL><p>
